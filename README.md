@@ -12,7 +12,8 @@ Run advanced machine learning models seamlessly using Apple’s dedicated Neural
  #	Seamless Metal Integration:
 Tap into GPU-accelerated compute tasks, reducing processing time and energy consumption for graphics and data-heavy workloads.
 	
- #	Real-Time Power Efficiency Monitoring: Track and optimize power usage with integrated performance metrics for smarter resource management.
+ #	Real-Time Power Efficiency Monitoring: 
+Track and optimize power usage with integrated performance metrics for smarter resource management.
 	
  #	Comprehensive Performance Insights: 
 Get detailed reports on crypto speed, memory bandwidth, and power efficiency to fine-tune app performance.
